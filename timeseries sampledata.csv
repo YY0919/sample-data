@@ -1,0 +1,1301 @@
+date,variable,value
+2015-10-11,bikini,21
+2015-10-18,bikini,22
+2015-10-25,bikini,22
+2015-11-01,bikini,20
+2015-11-08,bikini,20
+2015-11-15,bikini,21
+2015-11-22,bikini,35
+2015-11-29,bikini,20
+2015-12-06,bikini,20
+2015-12-13,bikini,21
+2015-12-20,bikini,21
+2015-12-27,bikini,19
+2016-01-03,bikini,20
+2016-01-10,bikini,19
+2016-01-17,bikini,24
+2016-01-24,bikini,23
+2016-01-31,bikini,25
+2016-02-07,bikini,22
+2016-02-14,bikini,25
+2016-02-21,bikini,25
+2016-02-28,bikini,27
+2016-03-06,bikini,31
+2016-03-13,bikini,25
+2016-03-20,bikini,29
+2016-03-27,bikini,27
+2016-04-03,bikini,30
+2016-04-10,bikini,31
+2016-04-17,bikini,35
+2016-04-24,bikini,35
+2016-05-01,bikini,35
+2016-05-08,bikini,37
+2016-05-15,bikini,36
+2016-05-22,bikini,38
+2016-05-29,bikini,45
+2016-06-05,bikini,45
+2016-06-12,bikini,61
+2016-06-19,bikini,79
+2016-06-26,bikini,81
+2016-07-03,bikini,90
+2016-07-10,bikini,80
+2016-07-17,bikini,57
+2016-07-24,bikini,68
+2016-07-31,bikini,68
+2016-08-07,bikini,63
+2016-08-14,bikini,53
+2016-08-21,bikini,44
+2016-08-28,bikini,45
+2016-09-04,bikini,34
+2016-09-11,bikini,32
+2016-09-18,bikini,27
+2016-09-25,bikini,21
+2016-10-02,bikini,21
+2016-10-09,bikini,20
+2016-10-16,bikini,21
+2016-10-23,bikini,21
+2016-10-30,bikini,18
+2016-11-06,bikini,18
+2016-11-13,bikini,19
+2016-11-20,bikini,19
+2016-11-27,bikini,21
+2016-12-04,bikini,17
+2016-12-11,bikini,17
+2016-12-18,bikini,18
+2016-12-25,bikini,18
+2017-01-01,bikini,18
+2017-01-08,bikini,20
+2017-01-15,bikini,25
+2017-01-22,bikini,27
+2017-01-29,bikini,28
+2017-02-05,bikini,28
+2017-02-12,bikini,23
+2017-02-19,bikini,23
+2017-02-26,bikini,25
+2017-03-05,bikini,26
+2017-03-12,bikini,27
+2017-03-19,bikini,28
+2017-03-26,bikini,26
+2017-04-02,bikini,30
+2017-04-09,bikini,29
+2017-04-16,bikini,32
+2017-04-23,bikini,31
+2017-04-30,bikini,34
+2017-05-07,bikini,33
+2017-05-14,bikini,36
+2017-05-21,bikini,39
+2017-05-28,bikini,42
+2017-06-04,bikini,52
+2017-06-11,bikini,64
+2017-06-18,bikini,70
+2017-06-25,bikini,100
+2017-07-02,bikini,97
+2017-07-09,bikini,82
+2017-07-16,bikini,72
+2017-07-23,bikini,69
+2017-07-30,bikini,64
+2017-08-06,bikini,57
+2017-08-13,bikini,58
+2017-08-20,bikini,41
+2017-08-27,bikini,37
+2017-09-03,bikini,34
+2017-09-10,bikini,28
+2017-09-17,bikini,23
+2017-09-24,bikini,21
+2017-10-01,bikini,21
+2017-10-08,bikini,20
+2017-10-15,bikini,21
+2017-10-22,bikini,21
+2017-10-29,bikini,18
+2017-11-05,bikini,18
+2017-11-12,bikini,19
+2017-11-19,bikini,16
+2017-11-26,bikini,17
+2017-12-03,bikini,18
+2017-12-10,bikini,18
+2017-12-17,bikini,18
+2017-12-24,bikini,20
+2017-12-31,bikini,20
+2018-01-07,bikini,19
+2018-01-14,bikini,21
+2018-01-21,bikini,21
+2018-01-28,bikini,22
+2018-02-04,bikini,19
+2018-02-11,bikini,19
+2018-02-18,bikini,21
+2018-02-25,bikini,21
+2018-03-04,bikini,23
+2018-03-11,bikini,23
+2018-03-18,bikini,27
+2018-03-25,bikini,24
+2018-04-01,bikini,26
+2018-04-08,bikini,26
+2018-04-15,bikini,32
+2018-04-22,bikini,32
+2018-04-29,bikini,37
+2018-05-06,bikini,34
+2018-05-13,bikini,36
+2018-05-20,bikini,38
+2018-05-27,bikini,50
+2018-06-03,bikini,61
+2018-06-10,bikini,71
+2018-06-17,bikini,74
+2018-06-24,bikini,66
+2018-07-01,bikini,84
+2018-07-08,bikini,85
+2018-07-15,bikini,81
+2018-07-22,bikini,67
+2018-07-29,bikini,60
+2018-08-05,bikini,51
+2018-08-12,bikini,48
+2018-08-19,bikini,48
+2018-08-26,bikini,36
+2018-09-02,bikini,28
+2018-09-09,bikini,23
+2018-09-16,bikini,19
+2018-09-23,bikini,19
+2018-09-30,bikini,18
+2018-10-07,bikini,18
+2018-10-14,bikini,15
+2018-10-21,bikini,17
+2018-10-28,bikini,17
+2018-11-04,bikini,16
+2018-11-11,bikini,15
+2018-11-18,bikini,16
+2018-11-25,bikini,16
+2018-12-02,bikini,15
+2018-12-09,bikini,14
+2018-12-16,bikini,17
+2018-12-23,bikini,18
+2018-12-30,bikini,19
+2019-01-06,bikini,19
+2019-01-13,bikini,19
+2019-01-20,bikini,19
+2019-01-27,bikini,22
+2019-02-03,bikini,20
+2019-02-10,bikini,21
+2019-02-17,bikini,19
+2019-02-24,bikini,22
+2019-03-03,bikini,22
+2019-03-10,bikini,25
+2019-03-17,bikini,25
+2019-03-24,bikini,23
+2019-03-31,bikini,20
+2019-04-07,bikini,24
+2019-04-14,bikini,22
+2019-04-21,bikini,24
+2019-04-28,bikini,25
+2019-05-05,bikini,25
+2019-05-12,bikini,35
+2019-05-19,bikini,39
+2019-05-26,bikini,48
+2019-06-02,bikini,76
+2019-06-09,bikini,69
+2019-06-16,bikini,67
+2019-06-23,bikini,73
+2019-06-30,bikini,74
+2019-07-07,bikini,75
+2019-07-14,bikini,58
+2019-07-21,bikini,56
+2019-07-28,bikini,57
+2019-08-04,bikini,51
+2019-08-11,bikini,50
+2019-08-18,bikini,42
+2019-08-25,bikini,36
+2019-09-01,bikini,29
+2019-09-08,bikini,25
+2019-09-15,bikini,19
+2019-09-22,bikini,19
+2019-09-29,bikini,16
+2019-10-06,bikini,17
+2019-10-13,bikini,18
+2019-10-20,bikini,17
+2019-10-27,bikini,17
+2019-11-03,bikini,16
+2019-11-10,bikini,17
+2019-11-17,bikini,18
+2019-11-24,bikini,16
+2019-12-01,bikini,15
+2019-12-08,bikini,15
+2019-12-15,bikini,18
+2019-12-22,bikini,17
+2019-12-29,bikini,17
+2020-01-05,bikini,18
+2020-01-12,bikini,18
+2020-01-19,bikini,17
+2020-01-26,bikini,20
+2020-02-02,bikini,18
+2020-02-09,bikini,21
+2020-02-16,bikini,20
+2020-02-23,bikini,19
+2020-03-01,bikini,21
+2020-03-08,bikini,20
+2020-03-15,bikini,18
+2020-03-22,bikini,21
+2020-03-29,bikini,24
+2020-04-05,bikini,24
+2020-04-12,bikini,26
+2020-04-19,bikini,25
+2020-04-26,bikini,24
+2020-05-03,bikini,24
+2020-05-10,bikini,31
+2020-05-17,bikini,37
+2020-05-24,bikini,35
+2020-05-31,bikini,36
+2020-06-07,bikini,52
+2020-06-14,bikini,49
+2020-06-21,bikini,55
+2020-06-28,bikini,79
+2020-07-05,bikini,87
+2020-07-12,bikini,72
+2020-07-19,bikini,70
+2020-07-26,bikini,68
+2020-08-02,bikini,59
+2020-08-09,bikini,49
+2020-08-16,bikini,42
+2020-08-23,bikini,39
+2020-08-30,bikini,30
+2020-09-06,bikini,26
+2020-09-13,bikini,25
+2020-09-20,bikini,20
+2020-09-27,bikini,20
+2015-10-11,kazak,27
+2015-10-18,kazak,30
+2015-10-25,kazak,37
+2015-11-01,kazak,38
+2015-11-08,kazak,41
+2015-11-15,kazak,41
+2015-11-22,kazak,40
+2015-11-29,kazak,47
+2015-12-06,kazak,54
+2015-12-13,kazak,53
+2015-12-20,kazak,51
+2015-12-27,kazak,46
+2016-01-03,kazak,47
+2016-01-10,kazak,41
+2016-01-17,kazak,44
+2016-01-24,kazak,47
+2016-01-31,kazak,40
+2016-02-07,kazak,38
+2016-02-14,kazak,26
+2016-02-21,kazak,21
+2016-02-28,kazak,19
+2016-03-06,kazak,15
+2016-03-13,kazak,16
+2016-03-20,kazak,16
+2016-03-27,kazak,15
+2016-04-03,kazak,11
+2016-04-10,kazak,10
+2016-04-17,kazak,9
+2016-04-24,kazak,8
+2016-05-01,kazak,8
+2016-05-08,kazak,8
+2016-05-15,kazak,12
+2016-05-22,kazak,8
+2016-05-29,kazak,8
+2016-06-05,kazak,7
+2016-06-12,kazak,6
+2016-06-19,kazak,9
+2016-06-26,kazak,7
+2016-07-03,kazak,7
+2016-07-10,kazak,5
+2016-07-17,kazak,8
+2016-07-24,kazak,8
+2016-07-31,kazak,8
+2016-08-07,kazak,8
+2016-08-14,kazak,8
+2016-08-21,kazak,9
+2016-08-28,kazak,12
+2016-09-04,kazak,11
+2016-09-11,kazak,14
+2016-09-18,kazak,18
+2016-09-25,kazak,25
+2016-10-02,kazak,22
+2016-10-09,kazak,29
+2016-10-16,kazak,38
+2016-10-23,kazak,41
+2016-10-30,kazak,49
+2016-11-06,kazak,45
+2016-11-13,kazak,51
+2016-11-20,kazak,51
+2016-11-27,kazak,61
+2016-12-04,kazak,63
+2016-12-11,kazak,66
+2016-12-18,kazak,68
+2016-12-25,kazak,64
+2017-01-01,kazak,54
+2017-01-08,kazak,57
+2017-01-15,kazak,55
+2017-01-22,kazak,53
+2017-01-29,kazak,55
+2017-02-05,kazak,45
+2017-02-12,kazak,38
+2017-02-19,kazak,30
+2017-02-26,kazak,26
+2017-03-05,kazak,20
+2017-03-12,kazak,20
+2017-03-19,kazak,17
+2017-03-26,kazak,15
+2017-04-02,kazak,13
+2017-04-09,kazak,15
+2017-04-16,kazak,11
+2017-04-23,kazak,11
+2017-04-30,kazak,9
+2017-05-07,kazak,8
+2017-05-14,kazak,8
+2017-05-21,kazak,8
+2017-05-28,kazak,7
+2017-06-04,kazak,7
+2017-06-11,kazak,5
+2017-06-18,kazak,6
+2017-06-25,kazak,5
+2017-07-02,kazak,6
+2017-07-09,kazak,6
+2017-07-16,kazak,7
+2017-07-23,kazak,7
+2017-07-30,kazak,8
+2017-08-06,kazak,9
+2017-08-13,kazak,8
+2017-08-20,kazak,10
+2017-08-27,kazak,12
+2017-09-03,kazak,15
+2017-09-10,kazak,15
+2017-09-17,kazak,15
+2017-09-24,kazak,23
+2017-10-01,kazak,38
+2017-10-08,kazak,48
+2017-10-15,kazak,47
+2017-10-22,kazak,50
+2017-10-29,kazak,65
+2017-11-05,kazak,70
+2017-11-12,kazak,65
+2017-11-19,kazak,83
+2017-11-26,kazak,77
+2017-12-03,kazak,79
+2017-12-10,kazak,82
+2017-12-17,kazak,81
+2017-12-24,kazak,86
+2017-12-31,kazak,66
+2018-01-07,kazak,67
+2018-01-14,kazak,73
+2018-01-21,kazak,72
+2018-01-28,kazak,63
+2018-02-04,kazak,57
+2018-02-11,kazak,45
+2018-02-18,kazak,40
+2018-02-25,kazak,39
+2018-03-04,kazak,33
+2018-03-11,kazak,23
+2018-03-18,kazak,20
+2018-03-25,kazak,19
+2018-04-01,kazak,16
+2018-04-08,kazak,13
+2018-04-15,kazak,10
+2018-04-22,kazak,9
+2018-04-29,kazak,8
+2018-05-06,kazak,9
+2018-05-13,kazak,8
+2018-05-20,kazak,7
+2018-05-27,kazak,7
+2018-06-03,kazak,7
+2018-06-10,kazak,7
+2018-06-17,kazak,5
+2018-06-24,kazak,7
+2018-07-01,kazak,6
+2018-07-08,kazak,8
+2018-07-15,kazak,7
+2018-07-22,kazak,7
+2018-07-29,kazak,9
+2018-08-05,kazak,9
+2018-08-12,kazak,8
+2018-08-19,kazak,11
+2018-08-26,kazak,12
+2018-09-02,kazak,15
+2018-09-09,kazak,24
+2018-09-16,kazak,24
+2018-09-23,kazak,33
+2018-09-30,kazak,40
+2018-10-07,kazak,52
+2018-10-14,kazak,53
+2018-10-21,kazak,65
+2018-10-28,kazak,66
+2018-11-04,kazak,72
+2018-11-11,kazak,82
+2018-11-18,kazak,100
+2018-11-25,kazak,91
+2018-12-02,kazak,93
+2018-12-09,kazak,98
+2018-12-16,kazak,95
+2018-12-23,kazak,100
+2018-12-30,kazak,84
+2019-01-06,kazak,76
+2019-01-13,kazak,74
+2019-01-20,kazak,66
+2019-01-27,kazak,60
+2019-02-03,kazak,55
+2019-02-10,kazak,54
+2019-02-17,kazak,41
+2019-02-24,kazak,41
+2019-03-03,kazak,33
+2019-03-10,kazak,26
+2019-03-17,kazak,22
+2019-03-24,kazak,21
+2019-03-31,kazak,19
+2019-04-07,kazak,17
+2019-04-14,kazak,17
+2019-04-21,kazak,14
+2019-04-28,kazak,9
+2019-05-05,kazak,9
+2019-05-12,kazak,7
+2019-05-19,kazak,8
+2019-05-26,kazak,7
+2019-06-02,kazak,6
+2019-06-09,kazak,8
+2019-06-16,kazak,7
+2019-06-23,kazak,7
+2019-06-30,kazak,8
+2019-07-07,kazak,9
+2019-07-14,kazak,10
+2019-07-21,kazak,9
+2019-07-28,kazak,10
+2019-08-04,kazak,8
+2019-08-11,kazak,10
+2019-08-18,kazak,16
+2019-08-25,kazak,15
+2019-09-01,kazak,16
+2019-09-08,kazak,21
+2019-09-15,kazak,28
+2019-09-22,kazak,36
+2019-09-29,kazak,33
+2019-10-06,kazak,43
+2019-10-13,kazak,42
+2019-10-20,kazak,50
+2019-10-27,kazak,63
+2019-11-03,kazak,67
+2019-11-10,kazak,68
+2019-11-17,kazak,82
+2019-11-24,kazak,98
+2019-12-01,kazak,98
+2019-12-08,kazak,100
+2019-12-15,kazak,92
+2019-12-22,kazak,93
+2019-12-29,kazak,94
+2020-01-05,kazak,83
+2020-01-12,kazak,81
+2020-01-19,kazak,74
+2020-01-26,kazak,68
+2020-02-02,kazak,68
+2020-02-09,kazak,68
+2020-02-16,kazak,56
+2020-02-23,kazak,40
+2020-03-01,kazak,33
+2020-03-08,kazak,23
+2020-03-15,kazak,18
+2020-03-22,kazak,19
+2020-03-29,kazak,19
+2020-04-05,kazak,18
+2020-04-12,kazak,15
+2020-04-19,kazak,16
+2020-04-26,kazak,14
+2020-05-03,kazak,14
+2020-05-10,kazak,12
+2020-05-17,kazak,10
+2020-05-24,kazak,11
+2020-05-31,kazak,10
+2020-06-07,kazak,9
+2020-06-14,kazak,9
+2020-06-21,kazak,10
+2020-06-28,kazak,8
+2020-07-05,kazak,9
+2020-07-12,kazak,9
+2020-07-19,kazak,8
+2020-07-26,kazak,8
+2020-08-02,kazak,9
+2020-08-09,kazak,9
+2020-08-16,kazak,12
+2020-08-23,kazak,13
+2020-08-30,kazak,12
+2020-09-06,kazak,17
+2020-09-13,kazak,21
+2020-09-20,kazak,22
+2020-09-27,kazak,24
+2015-10-11,kiralık ev,33
+2015-10-18,kiralık ev,31
+2015-10-25,kiralık ev,29
+2015-11-01,kiralık ev,30
+2015-11-08,kiralık ev,30
+2015-11-15,kiralık ev,29
+2015-11-22,kiralık ev,27
+2015-11-29,kiralık ev,28
+2015-12-06,kiralık ev,29
+2015-12-13,kiralık ev,30
+2015-12-20,kiralık ev,27
+2015-12-27,kiralık ev,29
+2016-01-03,kiralık ev,28
+2016-01-10,kiralık ev,27
+2016-01-17,kiralık ev,27
+2016-01-24,kiralık ev,31
+2016-01-31,kiralık ev,33
+2016-02-07,kiralık ev,35
+2016-02-14,kiralık ev,37
+2016-02-21,kiralık ev,36
+2016-02-28,kiralık ev,35
+2016-03-06,kiralık ev,34
+2016-03-13,kiralık ev,33
+2016-03-20,kiralık ev,34
+2016-03-27,kiralık ev,34
+2016-04-03,kiralık ev,36
+2016-04-10,kiralık ev,34
+2016-04-17,kiralık ev,38
+2016-04-24,kiralık ev,37
+2016-05-01,kiralık ev,36
+2016-05-08,kiralık ev,41
+2016-05-15,kiralık ev,42
+2016-05-22,kiralık ev,42
+2016-05-29,kiralık ev,47
+2016-06-05,kiralık ev,44
+2016-06-12,kiralık ev,51
+2016-06-19,kiralık ev,57
+2016-06-26,kiralık ev,56
+2016-07-03,kiralık ev,63
+2016-07-10,kiralık ev,58
+2016-07-17,kiralık ev,54
+2016-07-24,kiralık ev,59
+2016-07-31,kiralık ev,58
+2016-08-07,kiralık ev,62
+2016-08-14,kiralık ev,61
+2016-08-21,kiralık ev,56
+2016-08-28,kiralık ev,58
+2016-09-04,kiralık ev,52
+2016-09-11,kiralık ev,51
+2016-09-18,kiralık ev,52
+2016-09-25,kiralık ev,45
+2016-10-02,kiralık ev,43
+2016-10-09,kiralık ev,41
+2016-10-16,kiralık ev,37
+2016-10-23,kiralık ev,36
+2016-10-30,kiralık ev,35
+2016-11-06,kiralık ev,34
+2016-11-13,kiralık ev,33
+2016-11-20,kiralık ev,32
+2016-11-27,kiralık ev,34
+2016-12-04,kiralık ev,32
+2016-12-11,kiralık ev,34
+2016-12-18,kiralık ev,34
+2016-12-25,kiralık ev,33
+2017-01-01,kiralık ev,33
+2017-01-08,kiralık ev,33
+2017-01-15,kiralık ev,37
+2017-01-22,kiralık ev,36
+2017-01-29,kiralık ev,38
+2017-02-05,kiralık ev,40
+2017-02-12,kiralık ev,40
+2017-02-19,kiralık ev,41
+2017-02-26,kiralık ev,41
+2017-03-05,kiralık ev,41
+2017-03-12,kiralık ev,41
+2017-03-19,kiralık ev,42
+2017-03-26,kiralık ev,41
+2017-04-02,kiralık ev,41
+2017-04-09,kiralık ev,41
+2017-04-16,kiralık ev,40
+2017-04-23,kiralık ev,41
+2017-04-30,kiralık ev,49
+2017-05-07,kiralık ev,47
+2017-05-14,kiralık ev,48
+2017-05-21,kiralık ev,50
+2017-05-28,kiralık ev,51
+2017-06-04,kiralık ev,56
+2017-06-11,kiralık ev,59
+2017-06-18,kiralık ev,60
+2017-06-25,kiralık ev,79
+2017-07-02,kiralık ev,77
+2017-07-09,kiralık ev,72
+2017-07-16,kiralık ev,71
+2017-07-23,kiralık ev,71
+2017-07-30,kiralık ev,72
+2017-08-06,kiralık ev,74
+2017-08-13,kiralık ev,68
+2017-08-20,kiralık ev,61
+2017-08-27,kiralık ev,53
+2017-09-03,kiralık ev,63
+2017-09-10,kiralık ev,59
+2017-09-17,kiralık ev,54
+2017-09-24,kiralık ev,49
+2017-10-01,kiralık ev,47
+2017-10-08,kiralık ev,44
+2017-10-15,kiralık ev,42
+2017-10-22,kiralık ev,41
+2017-10-29,kiralık ev,40
+2017-11-05,kiralık ev,38
+2017-11-12,kiralık ev,37
+2017-11-19,kiralık ev,37
+2017-11-26,kiralık ev,35
+2017-12-03,kiralık ev,37
+2017-12-10,kiralık ev,38
+2017-12-17,kiralık ev,37
+2017-12-24,kiralık ev,38
+2017-12-31,kiralık ev,37
+2018-01-07,kiralık ev,40
+2018-01-14,kiralık ev,37
+2018-01-21,kiralık ev,38
+2018-01-28,kiralık ev,40
+2018-02-04,kiralık ev,42
+2018-02-11,kiralık ev,39
+2018-02-18,kiralık ev,42
+2018-02-25,kiralık ev,42
+2018-03-04,kiralık ev,45
+2018-03-11,kiralık ev,42
+2018-03-18,kiralık ev,41
+2018-03-25,kiralık ev,46
+2018-04-01,kiralık ev,45
+2018-04-08,kiralık ev,45
+2018-04-15,kiralık ev,49
+2018-04-22,kiralık ev,46
+2018-04-29,kiralık ev,47
+2018-05-06,kiralık ev,46
+2018-05-13,kiralık ev,47
+2018-05-20,kiralık ev,50
+2018-05-27,kiralık ev,51
+2018-06-03,kiralık ev,56
+2018-06-10,kiralık ev,60
+2018-06-17,kiralık ev,69
+2018-06-24,kiralık ev,68
+2018-07-01,kiralık ev,80
+2018-07-08,kiralık ev,81
+2018-07-15,kiralık ev,82
+2018-07-22,kiralık ev,82
+2018-07-29,kiralık ev,81
+2018-08-05,kiralık ev,70
+2018-08-12,kiralık ev,68
+2018-08-19,kiralık ev,74
+2018-08-26,kiralık ev,73
+2018-09-02,kiralık ev,71
+2018-09-09,kiralık ev,60
+2018-09-16,kiralık ev,57
+2018-09-23,kiralık ev,51
+2018-09-30,kiralık ev,48
+2018-10-07,kiralık ev,46
+2018-10-14,kiralık ev,44
+2018-10-21,kiralık ev,40
+2018-10-28,kiralık ev,43
+2018-11-04,kiralık ev,39
+2018-11-11,kiralık ev,38
+2018-11-18,kiralık ev,37
+2018-11-25,kiralık ev,38
+2018-12-02,kiralık ev,40
+2018-12-09,kiralık ev,41
+2018-12-16,kiralık ev,42
+2018-12-23,kiralık ev,43
+2018-12-30,kiralık ev,41
+2019-01-06,kiralık ev,43
+2019-01-13,kiralık ev,43
+2019-01-20,kiralık ev,46
+2019-01-27,kiralık ev,49
+2019-02-03,kiralık ev,53
+2019-02-10,kiralık ev,49
+2019-02-17,kiralık ev,54
+2019-02-24,kiralık ev,48
+2019-03-03,kiralık ev,48
+2019-03-10,kiralık ev,46
+2019-03-17,kiralık ev,49
+2019-03-24,kiralık ev,49
+2019-03-31,kiralık ev,44
+2019-04-07,kiralık ev,51
+2019-04-14,kiralık ev,53
+2019-04-21,kiralık ev,51
+2019-04-28,kiralık ev,54
+2019-05-05,kiralık ev,46
+2019-05-12,kiralık ev,57
+2019-05-19,kiralık ev,60
+2019-05-26,kiralık ev,59
+2019-06-02,kiralık ev,77
+2019-06-09,kiralık ev,77
+2019-06-16,kiralık ev,77
+2019-06-23,kiralık ev,83
+2019-06-30,kiralık ev,91
+2019-07-07,kiralık ev,90
+2019-07-14,kiralık ev,84
+2019-07-21,kiralık ev,89
+2019-07-28,kiralık ev,83
+2019-08-04,kiralık ev,83
+2019-08-11,kiralık ev,91
+2019-08-18,kiralık ev,86
+2019-08-25,kiralık ev,84
+2019-09-01,kiralık ev,77
+2019-09-08,kiralık ev,68
+2019-09-15,kiralık ev,61
+2019-09-22,kiralık ev,56
+2019-09-29,kiralık ev,58
+2019-10-06,kiralık ev,53
+2019-10-13,kiralık ev,51
+2019-10-20,kiralık ev,49
+2019-10-27,kiralık ev,48
+2019-11-03,kiralık ev,47
+2019-11-10,kiralık ev,47
+2019-11-17,kiralık ev,46
+2019-11-24,kiralık ev,44
+2019-12-01,kiralık ev,45
+2019-12-08,kiralık ev,45
+2019-12-15,kiralık ev,47
+2019-12-22,kiralık ev,45
+2019-12-29,kiralık ev,45
+2020-01-05,kiralık ev,48
+2020-01-12,kiralık ev,49
+2020-01-19,kiralık ev,49
+2020-01-26,kiralık ev,56
+2020-02-02,kiralık ev,55
+2020-02-09,kiralık ev,50
+2020-02-16,kiralık ev,55
+2020-02-23,kiralık ev,48
+2020-03-01,kiralık ev,55
+2020-03-08,kiralık ev,51
+2020-03-15,kiralık ev,41
+2020-03-22,kiralık ev,37
+2020-03-29,kiralık ev,33
+2020-04-05,kiralık ev,35
+2020-04-12,kiralık ev,39
+2020-04-19,kiralık ev,40
+2020-04-26,kiralık ev,45
+2020-05-03,kiralık ev,49
+2020-05-10,kiralık ev,58
+2020-05-17,kiralık ev,62
+2020-05-24,kiralık ev,71
+2020-05-31,kiralık ev,79
+2020-06-07,kiralık ev,83
+2020-06-14,kiralık ev,84
+2020-06-21,kiralık ev,86
+2020-06-28,kiralık ev,99
+2020-07-05,kiralık ev,98
+2020-07-12,kiralık ev,97
+2020-07-19,kiralık ev,95
+2020-07-26,kiralık ev,93
+2020-08-02,kiralık ev,100
+2020-08-09,kiralık ev,96
+2020-08-16,kiralık ev,84
+2020-08-23,kiralık ev,91
+2020-08-30,kiralık ev,75
+2020-09-06,kiralık ev,67
+2020-09-13,kiralık ev,66
+2020-09-20,kiralık ev,61
+2020-09-27,kiralık ev,59
+2015-10-11,google,98
+2015-10-18,google,98
+2015-10-25,google,100
+2015-11-01,google,96
+2015-11-08,google,97
+2015-11-15,google,96
+2015-11-22,google,95
+2015-11-29,google,95
+2015-12-06,google,98
+2015-12-13,google,98
+2015-12-20,google,97
+2015-12-27,google,95
+2016-01-03,google,91
+2016-01-10,google,87
+2016-01-17,google,86
+2016-01-24,google,88
+2016-01-31,google,89
+2016-02-07,google,87
+2016-02-14,google,88
+2016-02-21,google,88
+2016-02-28,google,87
+2016-03-06,google,86
+2016-03-13,google,84
+2016-03-20,google,86
+2016-03-27,google,85
+2016-04-03,google,83
+2016-04-10,google,82
+2016-04-17,google,84
+2016-04-24,google,83
+2016-05-01,google,79
+2016-05-08,google,80
+2016-05-15,google,77
+2016-05-22,google,75
+2016-05-29,google,75
+2016-06-05,google,73
+2016-06-12,google,77
+2016-06-19,google,75
+2016-06-26,google,78
+2016-07-03,google,84
+2016-07-10,google,77
+2016-07-17,google,77
+2016-07-24,google,76
+2016-07-31,google,74
+2016-08-07,google,75
+2016-08-14,google,75
+2016-08-21,google,71
+2016-08-28,google,71
+2016-09-04,google,69
+2016-09-11,google,76
+2016-09-18,google,72
+2016-09-25,google,73
+2016-10-02,google,73
+2016-10-09,google,72
+2016-10-16,google,72
+2016-10-23,google,71
+2016-10-30,google,72
+2016-11-06,google,69
+2016-11-13,google,69
+2016-11-20,google,68
+2016-11-27,google,67
+2016-12-04,google,66
+2016-12-11,google,66
+2016-12-18,google,68
+2016-12-25,google,66
+2017-01-01,google,64
+2017-01-08,google,62
+2017-01-15,google,64
+2017-01-22,google,64
+2017-01-29,google,62
+2017-02-05,google,63
+2017-02-12,google,65
+2017-02-19,google,66
+2017-02-26,google,64
+2017-03-05,google,63
+2017-03-12,google,62
+2017-03-19,google,63
+2017-03-26,google,61
+2017-04-02,google,61
+2017-04-09,google,59
+2017-04-16,google,60
+2017-04-23,google,63
+2017-04-30,google,64
+2017-05-07,google,63
+2017-05-14,google,62
+2017-05-21,google,60
+2017-05-28,google,58
+2017-06-04,google,58
+2017-06-11,google,57
+2017-06-18,google,59
+2017-06-25,google,62
+2017-07-02,google,61
+2017-07-09,google,63
+2017-07-16,google,61
+2017-07-23,google,62
+2017-07-30,google,60
+2017-08-06,google,59
+2017-08-13,google,58
+2017-08-20,google,58
+2017-08-27,google,59
+2017-09-03,google,57
+2017-09-10,google,56
+2017-09-17,google,58
+2017-09-24,google,59
+2017-10-01,google,60
+2017-10-08,google,60
+2017-10-15,google,60
+2017-10-22,google,58
+2017-10-29,google,58
+2017-11-05,google,58
+2017-11-12,google,57
+2017-11-19,google,56
+2017-11-26,google,56
+2017-12-03,google,57
+2017-12-10,google,56
+2017-12-17,google,56
+2017-12-24,google,54
+2017-12-31,google,54
+2018-01-07,google,53
+2018-01-14,google,52
+2018-01-21,google,53
+2018-01-28,google,53
+2018-02-04,google,53
+2018-02-11,google,53
+2018-02-18,google,53
+2018-02-25,google,52
+2018-03-04,google,52
+2018-03-11,google,51
+2018-03-18,google,51
+2018-03-25,google,52
+2018-04-01,google,50
+2018-04-08,google,49
+2018-04-15,google,50
+2018-04-22,google,50
+2018-04-29,google,48
+2018-05-06,google,49
+2018-05-13,google,47
+2018-05-20,google,46
+2018-05-27,google,45
+2018-06-03,google,44
+2018-06-10,google,44
+2018-06-17,google,46
+2018-06-24,google,43
+2018-07-01,google,45
+2018-07-08,google,45
+2018-07-15,google,46
+2018-07-22,google,46
+2018-07-29,google,45
+2018-08-05,google,44
+2018-08-12,google,42
+2018-08-19,google,46
+2018-08-26,google,44
+2018-09-02,google,44
+2018-09-09,google,45
+2018-09-16,google,46
+2018-09-23,google,47
+2018-09-30,google,47
+2018-10-07,google,48
+2018-10-14,google,46
+2018-10-21,google,46
+2018-10-28,google,46
+2018-11-04,google,47
+2018-11-11,google,46
+2018-11-18,google,45
+2018-11-25,google,46
+2018-12-02,google,47
+2018-12-09,google,45
+2018-12-16,google,45
+2018-12-23,google,43
+2018-12-30,google,42
+2019-01-06,google,42
+2019-01-13,google,42
+2019-01-20,google,43
+2019-01-27,google,43
+2019-02-03,google,45
+2019-02-10,google,45
+2019-02-17,google,46
+2019-02-24,google,46
+2019-03-03,google,45
+2019-03-10,google,46
+2019-03-17,google,47
+2019-03-24,google,45
+2019-03-31,google,42
+2019-04-07,google,43
+2019-04-14,google,44
+2019-04-21,google,45
+2019-04-28,google,43
+2019-05-05,google,40
+2019-05-12,google,43
+2019-05-19,google,44
+2019-05-26,google,42
+2019-06-02,google,44
+2019-06-09,google,44
+2019-06-16,google,45
+2019-06-23,google,43
+2019-06-30,google,44
+2019-07-07,google,44
+2019-07-14,google,44
+2019-07-21,google,44
+2019-07-28,google,44
+2019-08-04,google,44
+2019-08-11,google,43
+2019-08-18,google,44
+2019-08-25,google,42
+2019-09-01,google,41
+2019-09-08,google,44
+2019-09-15,google,44
+2019-09-22,google,45
+2019-09-29,google,44
+2019-10-06,google,45
+2019-10-13,google,44
+2019-10-20,google,44
+2019-10-27,google,44
+2019-11-03,google,43
+2019-11-10,google,42
+2019-11-17,google,43
+2019-11-24,google,43
+2019-12-01,google,43
+2019-12-08,google,43
+2019-12-15,google,46
+2019-12-22,google,41
+2019-12-29,google,41
+2020-01-05,google,41
+2020-01-12,google,41
+2020-01-19,google,41
+2020-01-26,google,40
+2020-02-02,google,39
+2020-02-09,google,40
+2020-02-16,google,40
+2020-02-23,google,40
+2020-03-01,google,42
+2020-03-08,google,42
+2020-03-15,google,46
+2020-03-22,google,46
+2020-03-29,google,46
+2020-04-05,google,45
+2020-04-12,google,46
+2020-04-19,google,45
+2020-04-26,google,43
+2020-05-03,google,43
+2020-05-10,google,44
+2020-05-17,google,42
+2020-05-24,google,44
+2020-05-31,google,43
+2020-06-07,google,42
+2020-06-14,google,40
+2020-06-21,google,41
+2020-06-28,google,40
+2020-07-05,google,40
+2020-07-12,google,39
+2020-07-19,google,39
+2020-07-26,google,40
+2020-08-02,google,40
+2020-08-09,google,39
+2020-08-16,google,39
+2020-08-23,google,40
+2020-08-30,google,41
+2020-09-06,google,41
+2020-09-13,google,41
+2020-09-20,google,42
+2020-09-27,google,51
+2015-10-11,spor ayakkabı,22
+2015-10-18,spor ayakkabı,20
+2015-10-25,spor ayakkabı,20
+2015-11-01,spor ayakkabı,19
+2015-11-08,spor ayakkabı,19
+2015-11-15,spor ayakkabı,17
+2015-11-22,spor ayakkabı,19
+2015-11-29,spor ayakkabı,17
+2015-12-06,spor ayakkabı,17
+2015-12-13,spor ayakkabı,17
+2015-12-20,spor ayakkabı,17
+2015-12-27,spor ayakkabı,15
+2016-01-03,spor ayakkabı,16
+2016-01-10,spor ayakkabı,16
+2016-01-17,spor ayakkabı,16
+2016-01-24,spor ayakkabı,17
+2016-01-31,spor ayakkabı,25
+2016-02-07,spor ayakkabı,31
+2016-02-14,spor ayakkabı,43
+2016-02-21,spor ayakkabı,42
+2016-02-28,spor ayakkabı,49
+2016-03-06,spor ayakkabı,48
+2016-03-13,spor ayakkabı,39
+2016-03-20,spor ayakkabı,41
+2016-03-27,spor ayakkabı,45
+2016-04-03,spor ayakkabı,52
+2016-04-10,spor ayakkabı,50
+2016-04-17,spor ayakkabı,48
+2016-04-24,spor ayakkabı,41
+2016-05-01,spor ayakkabı,39
+2016-05-08,spor ayakkabı,38
+2016-05-15,spor ayakkabı,32
+2016-05-22,spor ayakkabı,29
+2016-05-29,spor ayakkabı,28
+2016-06-05,spor ayakkabı,26
+2016-06-12,spor ayakkabı,29
+2016-06-19,spor ayakkabı,28
+2016-06-26,spor ayakkabı,28
+2016-07-03,spor ayakkabı,24
+2016-07-10,spor ayakkabı,19
+2016-07-17,spor ayakkabı,17
+2016-07-24,spor ayakkabı,20
+2016-07-31,spor ayakkabı,22
+2016-08-07,spor ayakkabı,21
+2016-08-14,spor ayakkabı,24
+2016-08-21,spor ayakkabı,26
+2016-08-28,spor ayakkabı,30
+2016-09-04,spor ayakkabı,37
+2016-09-11,spor ayakkabı,35
+2016-09-18,spor ayakkabı,31
+2016-09-25,spor ayakkabı,27
+2016-10-02,spor ayakkabı,27
+2016-10-09,spor ayakkabı,29
+2016-10-16,spor ayakkabı,25
+2016-10-23,spor ayakkabı,24
+2016-10-30,spor ayakkabı,21
+2016-11-06,spor ayakkabı,23
+2016-11-13,spor ayakkabı,20
+2016-11-20,spor ayakkabı,20
+2016-11-27,spor ayakkabı,18
+2016-12-04,spor ayakkabı,15
+2016-12-11,spor ayakkabı,15
+2016-12-18,spor ayakkabı,15
+2016-12-25,spor ayakkabı,14
+2017-01-01,spor ayakkabı,14
+2017-01-08,spor ayakkabı,16
+2017-01-15,spor ayakkabı,18
+2017-01-22,spor ayakkabı,23
+2017-01-29,spor ayakkabı,23
+2017-02-05,spor ayakkabı,33
+2017-02-12,spor ayakkabı,38
+2017-02-19,spor ayakkabı,53
+2017-02-26,spor ayakkabı,54
+2017-03-05,spor ayakkabı,60
+2017-03-12,spor ayakkabı,48
+2017-03-19,spor ayakkabı,54
+2017-03-26,spor ayakkabı,55
+2017-04-02,spor ayakkabı,57
+2017-04-09,spor ayakkabı,55
+2017-04-16,spor ayakkabı,51
+2017-04-23,spor ayakkabı,48
+2017-04-30,spor ayakkabı,50
+2017-05-07,spor ayakkabı,47
+2017-05-14,spor ayakkabı,41
+2017-05-21,spor ayakkabı,35
+2017-05-28,spor ayakkabı,35
+2017-06-04,spor ayakkabı,38
+2017-06-11,spor ayakkabı,40
+2017-06-18,spor ayakkabı,40
+2017-06-25,spor ayakkabı,25
+2017-07-02,spor ayakkabı,26
+2017-07-09,spor ayakkabı,24
+2017-07-16,spor ayakkabı,24
+2017-07-23,spor ayakkabı,24
+2017-07-30,spor ayakkabı,28
+2017-08-06,spor ayakkabı,25
+2017-08-13,spor ayakkabı,29
+2017-08-20,spor ayakkabı,37
+2017-08-27,spor ayakkabı,38
+2017-09-03,spor ayakkabı,35
+2017-09-10,spor ayakkabı,41
+2017-09-17,spor ayakkabı,34
+2017-09-24,spor ayakkabı,36
+2017-10-01,spor ayakkabı,35
+2017-10-08,spor ayakkabı,35
+2017-10-15,spor ayakkabı,32
+2017-10-22,spor ayakkabı,31
+2017-10-29,spor ayakkabı,26
+2017-11-05,spor ayakkabı,26
+2017-11-12,spor ayakkabı,27
+2017-11-19,spor ayakkabı,27
+2017-11-26,spor ayakkabı,23
+2017-12-03,spor ayakkabı,22
+2017-12-10,spor ayakkabı,24
+2017-12-17,spor ayakkabı,23
+2017-12-24,spor ayakkabı,22
+2017-12-31,spor ayakkabı,25
+2018-01-07,spor ayakkabı,28
+2018-01-14,spor ayakkabı,27
+2018-01-21,spor ayakkabı,27
+2018-01-28,spor ayakkabı,33
+2018-02-04,spor ayakkabı,42
+2018-02-11,spor ayakkabı,42
+2018-02-18,spor ayakkabı,50
+2018-02-25,spor ayakkabı,46
+2018-03-04,spor ayakkabı,56
+2018-03-11,spor ayakkabı,77
+2018-03-18,spor ayakkabı,80
+2018-03-25,spor ayakkabı,78
+2018-04-01,spor ayakkabı,84
+2018-04-08,spor ayakkabı,77
+2018-04-15,spor ayakkabı,73
+2018-04-22,spor ayakkabı,67
+2018-04-29,spor ayakkabı,60
+2018-05-06,spor ayakkabı,53
+2018-05-13,spor ayakkabı,49
+2018-05-20,spor ayakkabı,43
+2018-05-27,spor ayakkabı,46
+2018-06-03,spor ayakkabı,48
+2018-06-10,spor ayakkabı,50
+2018-06-17,spor ayakkabı,37
+2018-06-24,spor ayakkabı,30
+2018-07-01,spor ayakkabı,32
+2018-07-08,spor ayakkabı,33
+2018-07-15,spor ayakkabı,33
+2018-07-22,spor ayakkabı,33
+2018-07-29,spor ayakkabı,33
+2018-08-05,spor ayakkabı,35
+2018-08-12,spor ayakkabı,34
+2018-08-19,spor ayakkabı,35
+2018-08-26,spor ayakkabı,34
+2018-09-02,spor ayakkabı,40
+2018-09-09,spor ayakkabı,51
+2018-09-16,spor ayakkabı,45
+2018-09-23,spor ayakkabı,42
+2018-09-30,spor ayakkabı,41
+2018-10-07,spor ayakkabı,43
+2018-10-14,spor ayakkabı,42
+2018-10-21,spor ayakkabı,38
+2018-10-28,spor ayakkabı,36
+2018-11-04,spor ayakkabı,37
+2018-11-11,spor ayakkabı,34
+2018-11-18,spor ayakkabı,36
+2018-11-25,spor ayakkabı,29
+2018-12-02,spor ayakkabı,24
+2018-12-09,spor ayakkabı,25
+2018-12-16,spor ayakkabı,25
+2018-12-23,spor ayakkabı,23
+2018-12-30,spor ayakkabı,24
+2019-01-06,spor ayakkabı,25
+2019-01-13,spor ayakkabı,29
+2019-01-20,spor ayakkabı,37
+2019-01-27,spor ayakkabı,41
+2019-02-03,spor ayakkabı,57
+2019-02-10,spor ayakkabı,57
+2019-02-17,spor ayakkabı,64
+2019-02-24,spor ayakkabı,61
+2019-03-03,spor ayakkabı,79
+2019-03-10,spor ayakkabı,94
+2019-03-17,spor ayakkabı,100
+2019-03-24,spor ayakkabı,88
+2019-03-31,spor ayakkabı,69
+2019-04-07,spor ayakkabı,77
+2019-04-14,spor ayakkabı,72
+2019-04-21,spor ayakkabı,73
+2019-04-28,spor ayakkabı,76
+2019-05-05,spor ayakkabı,66
+2019-05-12,spor ayakkabı,73
+2019-05-19,spor ayakkabı,70
+2019-05-26,spor ayakkabı,67
+2019-06-02,spor ayakkabı,55
+2019-06-09,spor ayakkabı,44
+2019-06-16,spor ayakkabı,42
+2019-06-23,spor ayakkabı,35
+2019-06-30,spor ayakkabı,39
+2019-07-07,spor ayakkabı,45
+2019-07-14,spor ayakkabı,43
+2019-07-21,spor ayakkabı,43
+2019-07-28,spor ayakkabı,44
+2019-08-04,spor ayakkabı,48
+2019-08-11,spor ayakkabı,44
+2019-08-18,spor ayakkabı,44
+2019-08-25,spor ayakkabı,48
+2019-09-01,spor ayakkabı,55
+2019-09-08,spor ayakkabı,52
+2019-09-15,spor ayakkabı,54
+2019-09-22,spor ayakkabı,49
+2019-09-29,spor ayakkabı,51
+2019-10-06,spor ayakkabı,53
+2019-10-13,spor ayakkabı,48
+2019-10-20,spor ayakkabı,53
+2019-10-27,spor ayakkabı,51
+2019-11-03,spor ayakkabı,46
+2019-11-10,spor ayakkabı,50
+2019-11-17,spor ayakkabı,51
+2019-11-24,spor ayakkabı,53
+2019-12-01,spor ayakkabı,36
+2019-12-08,spor ayakkabı,32
+2019-12-15,spor ayakkabı,33
+2019-12-22,spor ayakkabı,31
+2019-12-29,spor ayakkabı,29
+2020-01-05,spor ayakkabı,27
+2020-01-12,spor ayakkabı,36
+2020-01-19,spor ayakkabı,34
+2020-01-26,spor ayakkabı,42
+2020-02-02,spor ayakkabı,46
+2020-02-09,spor ayakkabı,50
+2020-02-16,spor ayakkabı,62
+2020-02-23,spor ayakkabı,66
+2020-03-01,spor ayakkabı,87
+2020-03-08,spor ayakkabı,89
+2020-03-15,spor ayakkabı,47
+2020-03-22,spor ayakkabı,41
+2020-03-29,spor ayakkabı,36
+2020-04-05,spor ayakkabı,40
+2020-04-12,spor ayakkabı,48
+2020-04-19,spor ayakkabı,46
+2020-04-26,spor ayakkabı,59
+2020-05-03,spor ayakkabı,68
+2020-05-10,spor ayakkabı,85
+2020-05-17,spor ayakkabı,68
+2020-05-24,spor ayakkabı,63
+2020-05-31,spor ayakkabı,66
+2020-06-07,spor ayakkabı,71
+2020-06-14,spor ayakkabı,68
+2020-06-21,spor ayakkabı,61
+2020-06-28,spor ayakkabı,59
+2020-07-05,spor ayakkabı,57
+2020-07-12,spor ayakkabı,56
+2020-07-19,spor ayakkabı,52
+2020-07-26,spor ayakkabı,52
+2020-08-02,spor ayakkabı,45
+2020-08-09,spor ayakkabı,42
+2020-08-16,spor ayakkabı,44
+2020-08-23,spor ayakkabı,42
+2020-08-30,spor ayakkabı,40
+2020-09-06,spor ayakkabı,44
+2020-09-13,spor ayakkabı,47
+2020-09-20,spor ayakkabı,43
+2020-09-27,spor ayakkabı,44
